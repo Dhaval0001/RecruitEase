@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>171502442392-4qp97lh85c00ues91fn23i2mumk0o7am.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.171502442392-4qp97lh85c00ues91fn23i2mumk0o7am</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-0DLG_QN6HNCUF7mXG32G9ZwJUn85_W0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>171502442392</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.recruiteaseApp</string>
+	<key>PROJECT_ID</key>
+	<string>recruitease-dt01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>recruitease-dt01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:171502442392:ios:4248a22e4d25bbf3647ded</string>
+</dict>
+</plist>

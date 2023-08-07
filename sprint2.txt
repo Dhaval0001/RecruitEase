@@ -1,0 +1,20 @@
+for sprint 2
+
+Everyone needs to upload their code in the sprint2 branch.
+
+Steps for changing the branch
+
+1st git branch -a
+//this will dsplay all the available branches on system as well as upstream
+
+2nd git checkout sprint2
+//this comand will change your branch
+
+Now pull before working and for pull use
+
+git pull origin sprint2 
+
+//(git pull origin branch_name)
+//sprint2 is our branch_name.
+
+all the other command are same for add, status, commit, and push

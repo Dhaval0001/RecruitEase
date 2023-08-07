@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171502442392",
+    "project_id": "recruitease-dt01",
+    "storage_bucket": "recruitease-dt01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171502442392:android:f8eb1674d8f854b2647ded",
+        "android_client_info": {
+          "package_name": "com.example.recruitease_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171502442392-2ukiukor4k52copvcr0seopf05a5l56o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyvg5tLcwo9bCWG5cvYhkVOS_qoMb98z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171502442392-2ukiukor4k52copvcr0seopf05a5l56o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
